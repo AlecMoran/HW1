@@ -1,0 +1,21 @@
+.low {
+  margin-top: 50vh;
+}
+.med {
+  margin-top: 10vh;
+}
+button.icon {
+  color: white;
+}
+button.purple {
+  background-color: #6b46e5;
+}
+button.yellow {
+  background-color: #ffc900;
+}
+button.blue {
+  background-color: #11c1f3;
+}
+button.green {
+  background-color: limegreen;
+}
